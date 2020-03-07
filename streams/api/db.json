@@ -9,6 +9,11 @@
       "title": "Another Stream",
       "description": "This is a fantastic stream.",
       "id": 2
+    },
+    {
+      "title": "Anotha One",
+      "description": "Merge Conflicts Solved.",
+      "id": 3
     }
   ]
 }
