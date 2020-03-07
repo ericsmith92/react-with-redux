@@ -13,8 +13,12 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.0",
     "redux": "^4.0.5",
+<<<<<<< HEAD
     "redux-form": "^8.3.0",
     "redux-thunk": "^2.3.0"
+=======
+    "redux-form": "^8.3.0"
+>>>>>>> 353caead5297511352f585d89a4530e036ac1c54
   },
   "scripts": {
     "start": "react-scripts start",

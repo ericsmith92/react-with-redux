@@ -10,6 +10,7 @@ import {
 } from './types';
 
 
+
 export const signIn = userId => {
     return{
         type: SIGN_IN,
@@ -52,4 +53,5 @@ export const deleteStream = (id) => async dispatch => {
 
     dispatch({ type: DELETE_STREAM, payload: id });
 }
+
 
