@@ -5,7 +5,6 @@ import { Field, reduxForm } from 'redux-form';
 class StreamForm extends React.Component{
 
     renderError(meta){
-        console.log(meta);
         if(meta.touched && meta.error){
             return(
                 <div className="ui error message">
