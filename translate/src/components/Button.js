@@ -1,6 +1,5 @@
 import React from 'react';
 import LanguageContext from '../contexts/LanguageContext';
-import ColourContext from '../contexts/ColorContext';
 import ColorContext from '../contexts/ColorContext';
 
 class Button extends React.Component{
